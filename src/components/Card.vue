@@ -25,7 +25,7 @@
         <div className="text-right pt-2">
           <a
             className="text-md font-medium text-indigo-500 hover:text-indigo-600 focus-visible:outline-none focus-visible:ring focus-visible:ring-indigo-300 transition-colors duration-150 ease-out"
-            href="{tab.link}"
+            href="#"
             >Read more -&gt;</a
           >
         </div>
